@@ -1,0 +1,5 @@
+.gitsecret/keys/random_seed
+!*.secret
+.DS_Store
+config.json
+creds.json
