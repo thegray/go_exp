@@ -1,3 +1,5 @@
+# Check key and delete this repo
+
 # go_exp
 my collection of various go experiments and examples
 
